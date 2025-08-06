@@ -1,3 +1,3 @@
 # Demo
 This is my first repository<br>
-Author Name - Vikash Kumar
+<b>Author Name - Vikash Kumar</b>
